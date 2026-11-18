@@ -7,6 +7,10 @@
   },
   "games": [
     {
+      "id": "arknights",
+      "name": "明日方舟"
+    },
+    {
       "id": "genshin",
       "name": "原神"
     },
